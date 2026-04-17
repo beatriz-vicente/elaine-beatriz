@@ -84,7 +84,7 @@ export default function App() {
             className="photo-frame"
           >
             <img 
-              src="./assets/noivas.jpeg" 
+              src="assets/noivas.jpeg" 
               alt="Elaine e Beatriz" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
